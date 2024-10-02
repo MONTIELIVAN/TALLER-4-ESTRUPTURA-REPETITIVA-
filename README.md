@@ -1,4 +1,5 @@
 # TALLER-4-ESTRUPTURA-REPETITIVA-
 TALLER 4- ESTRUPTURAS REPETITIVAS
+integrantes: IVAN DARIO MONTIEL ALEMAN - MARIA CAMILA ESPITIA 
 
 EMAIL:ivan.montiela@upn.edu.co - mariac.espitiap@upb.edu.co
